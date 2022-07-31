@@ -1,4 +1,4 @@
-class FourteenEighty {
+class Solution {
     public int[] runningSum(int[] nums) {
         if (nums.length == 0) {
             return nums;
